@@ -1,1 +1,2 @@
  hello mygit Test!
+ git is so easy.
