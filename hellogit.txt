@@ -1,3 +1,4 @@
  hello mygit Test!
  git is so easy.
  Git branch  feature_x.
+ master Insert a word:fuck.
